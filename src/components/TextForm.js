@@ -76,7 +76,7 @@ export default function TextForm(props)
 </div>
 <div className ="container my-3" style={{backgroundColor:props.mode==='dark'?'grey':'white'}} >
   <h2>There is a Summary of your text</h2>
-  <p>{text.split(" ").filter((element)=>{return element.length!==0}).length} number of word  {text.length} is number of character </p>
+  <p>{text.split(/\s+/).filter((element)=>{return element.length!==0}).length} number of word  {text.length} is number of character </p>
 </div>
 </div>
   )
