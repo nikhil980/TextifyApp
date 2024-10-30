@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/nikhil980//.github.io/TextifyApp/static/css/main.e6c13ad2.css",
-    "main.js": "/nikhil980//.github.io/TextifyApp/static/js/main.add4c1e2.js",
-    "static/js/453.66bb7512.chunk.js": "/nikhil980//.github.io/TextifyApp/static/js/453.66bb7512.chunk.js",
-    "index.html": "/nikhil980//.github.io/TextifyApp/index.html",
-    "main.e6c13ad2.css.map": "/nikhil980//.github.io/TextifyApp/static/css/main.e6c13ad2.css.map",
-    "main.add4c1e2.js.map": "/nikhil980//.github.io/TextifyApp/static/js/main.add4c1e2.js.map",
-    "453.66bb7512.chunk.js.map": "/nikhil980//.github.io/TextifyApp/static/js/453.66bb7512.chunk.js.map"
+    "main.css": "//.github.io/TextifyApp/static/css/main.e6c13ad2.css",
+    "main.js": "//.github.io/TextifyApp/static/js/main.18973cc7.js",
+    "static/js/453.66bb7512.chunk.js": "//.github.io/TextifyApp/static/js/453.66bb7512.chunk.js",
+    "index.html": "//.github.io/TextifyApp/index.html",
+    "main.e6c13ad2.css.map": "//.github.io/TextifyApp/static/css/main.e6c13ad2.css.map",
+    "main.18973cc7.js.map": "//.github.io/TextifyApp/static/js/main.18973cc7.js.map",
+    "453.66bb7512.chunk.js.map": "//.github.io/TextifyApp/static/js/453.66bb7512.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.add4c1e2.js"
+    "static/js/main.18973cc7.js"
   ]
 }
